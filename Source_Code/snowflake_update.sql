@@ -1,1 +1,0 @@
-update superstore set region='West' where row_id=6;

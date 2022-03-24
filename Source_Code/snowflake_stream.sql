@@ -1,1 +1,0 @@
-create or replace stream superstore_stream1 on table superstore;
